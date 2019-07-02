@@ -6,6 +6,7 @@ This is an app built with React Native and an extension of [don8](https://github
 Getting Started
 ===============
 **Step 1**
+After cloning this repository, navigate into it and then:
 ```
 npm install
 npm start
@@ -22,7 +23,7 @@ Create an account with Expo on your device and then in your terminal:
 ```
 expo login
 ```
-Login with your credentials, then 
+Login with your credentials, then:
 ```
 npm start
 ```
