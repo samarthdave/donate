@@ -1,9 +1,10 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, Image } from 'react-native';
 
 export default function App() {
   return (
     <View style={styles.container}>
+      <Image source={require('./assets/img/hand-image.jpg')} />
       <Text style={styles.headerStyle}>donate</Text>
       
       <Text style={styles.subtitleStyle}>A tangible solution to reduce food waste.</Text>

@@ -11,6 +11,7 @@ npm install
 npm start
 ```
 This should run a server that can be opened in a browser.
+
 **Step 2**
 Install Expo Client (iOS and Android) to run the app on your device.
 Or use the CLI to run it in your browser.
